@@ -16,6 +16,10 @@ h1, h2, h3, h4, h5, h6 {
   color: silver;
 }
 
+.game-font {
+  font-family: 'Press Start 2P', cursive;  
+}
+
 
 /* Paragraph & Typographic */
 p {
@@ -41,7 +45,7 @@ a {
 
 a:hover,
 a:focus {
-  color: gray;    /* gray, consider a different gray? */ 
+  color: lavender;    /* gray, consider a different gray? */ 
   text-decoration: none;
   outline: 0;
 }
