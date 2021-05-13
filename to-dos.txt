@@ -1,25 +1,35 @@
-to-do
+to-do for HTML, CSS, JS
 
-
-add google fonts > https://fonts.google.com/
-add about section
+RESUME HTML
+edit about section
 add download button for pdf 
-edit education more and move to bottom add logos? 
+edit education more
 edit work history more
-remova awards section, perhaps add voluenteer work
+swap awards section for voluenteer work
+update skills to have more audio stuff and like more other skils in general
+afix icon for IG in index.html footer
+add virtual pilot light logo 
 
-update skills to have more audio stuff
-add icon for IG in index.html footer 
-
-virtual pilot light e-mail admi@virtualpilotlight.com
-
+OTHER PAGES
+Consieder making a home page with a link to the resume page and other nav stuff
 add the t.A.T.u. tribute page from codepen.io
 	add photos of t.A.T.u. jacket
 
 CSS 
 backgroud?
 .header make the edge rounded
+rounded border for logo
 
-add virtual pilot light logo
 
-Consieder making a home page with a link to the resume page and other nav stuff
+consider:
+more (google) fonts
+education logos
+
+Done:
+add google fonts > https://fonts.google.com/
+removed unused images (all)
+was able to HTTP clone into new floder so, other unsed html files and imgaes removed. 
+
+
+Todo for other launch needs
+virtual pilot light e-mail admi@virtualpilotlight.com
