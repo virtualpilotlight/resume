@@ -75,7 +75,7 @@ a:after {
 /* Header Wrap */
 .header {
   background: #111111;
-  /* background: url(../images/header-bg.jpg) no-repeat center top;  change header image */
+  background: url(../images/VPL_log_large.jpg) no-repeat center top; /* changed header image */
   padding-top:140px;
   text-align:center;
   background-attachment: relative;
@@ -189,7 +189,6 @@ sm {
 
 .container .row p.tight {
   margin-bottom: 10px;
-  color: lavender;
 }
 
 /* define some CSS3 animations: */
