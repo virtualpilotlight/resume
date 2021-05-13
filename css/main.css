@@ -95,8 +95,9 @@ a:after {
 }
 
 .header h1 {
+  border-radius: 25px;
   font-size: 80px;
-  color: silver;
+  color: Lavender;
   background: rgba(0,0,0,0.2); /*red green blue alpha (alpha = transparancy) */ 
 }
 
