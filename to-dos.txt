@@ -1,14 +1,16 @@
 to-do for HTML, CSS, JS
 
 RESUME HTML
-edit about section
-add download button for pdf 
-edit education more
-edit work history more
+edit about section, in progres
+add download button for pdf, idk about this, I think I need to add the resume.pdf to the file directory
+edit education more, in progress needs to go, but that button looks nice so maybe use it for something else?
+edit work history more, in preogress the <ul> look quite nice
 swap awards section for voluenteer work
 update skills to have more audio stuff and like more other skils in general
-afix icon for IG in index.html footer
-add virtual pilot light logo 
+fix icon for IG in index.html footer
+add virtual pilot light logo
+Nav bar 
+
 
 OTHER PAGES
 Consieder making a home page with a link to the resume page and other nav stuff
@@ -20,15 +22,19 @@ backgroud?
 .header make the edge rounded
 rounded border for logo
 
+BOOTSTRAP
 
 consider:
 more (google) fonts
 education logos
 
+
 Done:
 add google fonts > https://fonts.google.com/
 removed unused images (all)
-was able to HTTP clone into new floder so, other unsed html files and imgaes removed. 
+was able to HTTP clone into new floder so, other unsed html files and imgaes removed.
+favicon, could it be a logo
+ 
 
 
 Todo for other launch needs
